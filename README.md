@@ -47,3 +47,4 @@ Defaults:
 - Password: `tritorc123`
 ```
 # tritorc-image-remover
+# tritorc-image-remover
